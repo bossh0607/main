@@ -1,0 +1,3 @@
+Este é o quarto e não deverá entrar nesse commit
+Vamos ter que alterar esse arquivo, chegou o momento de seu commit
+Voltaremos nele em seguida
